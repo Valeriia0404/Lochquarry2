@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="ZnKs04PPDOQDAD29U2v9">
+    <mxGraphModel dx="1406" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zQYpUYD78OyNVru6j6cA-2" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" value="" vertex="1">
+          <mxGeometry height="530" width="840" x="10" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zQYpUYD78OyNVru6j6cA-3" parent="zQYpUYD78OyNVru6j6cA-2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" value="Homepage" vertex="1">
+          <mxGeometry height="26" width="110" x="60" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="zQYpUYD78OyNVru6j6cA-4" parent="zQYpUYD78OyNVru6j6cA-2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" value="https://www.landbased" vertex="1">
+          <mxGeometry height="26" width="250" x="130" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQYpUYD78OyNVru6j6cA-5" parent="zQYpUYD78OyNVru6j6cA-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Lochquarry outdoor centre" vertex="1">
+          <mxGeometry height="40" width="720" x="90" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zQYpUYD78OyNVru6j6cA-10" parent="zQYpUYD78OyNVru6j6cA-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="Land Activities" vertex="1">
+          <mxGeometry height="40" width="200" x="30" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zQYpUYD78OyNVru6j6cA-11" parent="zQYpUYD78OyNVru6j6cA-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="Water Activities" vertex="1">
+          <mxGeometry height="40" width="190" x="230" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zQYpUYD78OyNVru6j6cA-12" parent="zQYpUYD78OyNVru6j6cA-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="RopeActivities" vertex="1">
+          <mxGeometry height="40" width="190" x="420" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zQYpUYD78OyNVru6j6cA-13" parent="zQYpUYD78OyNVru6j6cA-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="About the centre" vertex="1">
+          <mxGeometry height="40" width="200" x="610" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zQYpUYD78OyNVru6j6cA-14" parent="zQYpUYD78OyNVru6j6cA-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Logo" vertex="1">
+          <mxGeometry height="60" width="90" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zQYpUYD78OyNVru6j6cA-15" parent="zQYpUYD78OyNVru6j6cA-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" value="Land Based Activities" vertex="1">
+          <mxGeometry height="60" width="810" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="zQYpUYD78OyNVru6j6cA-17" parent="zQYpUYD78OyNVru6j6cA-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" value="Reviews" vertex="1">
+          <mxGeometry height="100" width="430" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="zQYpUYD78OyNVru6j6cA-18" parent="zQYpUYD78OyNVru6j6cA-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="External link" vertex="1">
+          <mxGeometry height="100" width="380" x="430" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="md4f7toqt7sGwmQb9rzs-1" parent="zQYpUYD78OyNVru6j6cA-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="Photo" vertex="1">
+          <mxGeometry height="160" width="215" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="md4f7toqt7sGwmQb9rzs-2" parent="zQYpUYD78OyNVru6j6cA-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="Activities list and description details" vertex="1">
+          <mxGeometry height="160" width="592.5" x="217.5" y="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
